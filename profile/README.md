@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="skinnertopa_logo" src="https://github.com/user-attachments/assets/f333c6e5-dbd5-4941-997a-d355b1c81708" />
+<img width="358" height="197" alt="slai_logo" src="https://github.com/user-attachments/assets/1c607925-05bd-4044-bf5b-6c4f9d69c1ff" />
 
 # Welcome to Skinnertopia
 
